@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikilinc1&show_icons=true&theme=tokyonight&hide=prs,issues,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikilinc1&show_icons=true&theme=tokyonight&hide=prs,issues,contribs&include_all_commits=true)
